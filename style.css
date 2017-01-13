@@ -2,5 +2,16 @@
 /* CSS Document */
 
 body { background-color:#cccccc;}
-h1 { cursor:default}
-p { cursor:default}
+h1 { cursor:default;}
+h2 { cursor:default;}
+h3 { cursor:default;}
+h4 { cursor:default;}
+h5 { cursor:default;}
+h6 { cursor:default;}
+p { cursor:default;}
+.text {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.text {
+	font-family: Tahoma, Geneva, sans-serif;
+}
